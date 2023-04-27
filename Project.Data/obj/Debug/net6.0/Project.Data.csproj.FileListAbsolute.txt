@@ -1,0 +1,17 @@
+D:\DOT-NET\ConsoleApp\Project\Project.Data\bin\Debug\net6.0\Project.Data.deps.json
+D:\DOT-NET\ConsoleApp\Project\Project.Data\bin\Debug\net6.0\Project.Data.runtimeconfig.json
+D:\DOT-NET\ConsoleApp\Project\Project.Data\bin\Debug\net6.0\Project.Data.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Data\bin\Debug\net6.0\Project.Data.pdb
+D:\DOT-NET\ConsoleApp\Project\Project.Data\bin\Debug\net6.0\Project.Domain.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Data\bin\Debug\net6.0\Project.Domain.pdb
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.csproj.AssemblyReference.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.AssemblyInfoInputs.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.AssemblyInfo.cs
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.csproj.CoreCompileInputs.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.csproj.CopyComplete
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\refint\Project.Data.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.pdb
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\Project.Data.genruntimeconfig.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Data\obj\Debug\net6.0\ref\Project.Data.dll

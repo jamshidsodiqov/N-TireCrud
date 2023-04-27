@@ -1,0 +1,17 @@
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Domain.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Domain.pdb
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+D:\DOT-NET\ConsoleApp\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+D:\DOT-NET\ConsoleApp\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
